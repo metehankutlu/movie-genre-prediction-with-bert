@@ -1,0 +1,7 @@
+{
+    "BERT_MODEL_NAME": "bert-base-cased",
+    "N_EPOCHS": 30,
+    "BATCH_SIZE": 16,
+    "LR": 5e-5,
+    "CHECKPOINT_DIR": "saved_models"
+}

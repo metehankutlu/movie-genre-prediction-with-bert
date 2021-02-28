@@ -1,0 +1,9 @@
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - python
+  - pip
+  - scikit-learn
+  - pytorch-lightning
+  - transformers
